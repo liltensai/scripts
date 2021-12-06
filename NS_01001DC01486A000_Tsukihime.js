@@ -90,6 +90,10 @@ trans.replace(function(s) {
 	.replace(/反転衝動/g, 'Inversion Impulse')
 	.replace(/幻想種/g, 'Phantasmal Species')
 	.replace(/感応能力/g, 'Synchronization')
+	.replace(/先生/g, 'Sensei')
+	.replace(/青子/g, 'Aoko')
+	.replace(/蒼崎/g, 'Aozaki')
+	.replace(/魔眼殺し/g, 'Mystic Eyes Killer')
         ;
 });
 //------------------------------------------------
